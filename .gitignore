@@ -1,0 +1,9 @@
+.env.example
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+.vscode/
+dist/
+build/
